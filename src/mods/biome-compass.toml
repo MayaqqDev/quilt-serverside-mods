@@ -1,0 +1,6 @@
+name = 'Biome Compass (Maya Edition)'
+links.modrinth = 'https://modrinth.com/mod/biome-compass'
+categories = [
+	'tweaks/new-game-mechanics',
+]
+metadata.abandoned = true
